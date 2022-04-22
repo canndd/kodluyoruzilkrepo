@@ -28,3 +28,5 @@ code .
 
 
 ![Resim](https://www.kisa.link/PYqA)
+
+[Patika adresim](https://app.patika.dev/cannnd)
